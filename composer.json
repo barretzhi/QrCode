@@ -1,15 +1,13 @@
 {
-    "name": "endroid/qrcode",
+    "name": "barretzhi/qrcode",
     "description": "Endroid QR Code",
     "keywords": ["endroid", "qrcode", "qr", "code", "bundle", "symfony"],
-    "homepage": "https://github.com/endroid/QrCode",
+    "homepage": "https://github.com/barretzhi/QrCode",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeroen van den Enden",
-            "email": "info@endroid.nl",
-            "homepage": "http://endroid.nl/"
+            
         }
     ],
     "require": {
